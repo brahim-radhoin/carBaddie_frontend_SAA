@@ -13,7 +13,6 @@ A comprehensive desktop vehicle maintenance tracking application built with Taur
 
 - **Multiple Vehicle Support**: Manage an unlimited number of vehicles in your fleet
 - **Comprehensive Vehicle Profiles**: Track make, model, year, VIN, license plate, mileage, and more
-- **Vehicle Images**: Attach custom images to your vehicles
 - **Custom Fields**: Add custom metadata to track specific information
 
 ### Maintenance Tracking
@@ -35,7 +34,7 @@ A comprehensive desktop vehicle maintenance tracking application built with Taur
 ### User Experience
 
 - **Dark/Light Mode**: Beautiful themed interface with customizable color schemes
-- **Color Presets**: Multiple color themes (Zinc, Slate, Stone, Gray, Neutral, Red, Rose, Orange, Green, Blue, Yellow, Violet)
+- **Color Presets**: Multiple color themes 
 - **Activity Calendar**: Visual tracking of maintenance activities
 - **Statistics Dashboard**: Insights into your maintenance patterns
 - **Responsive Design**: Modern, intuitive UI built with Radix UI components
